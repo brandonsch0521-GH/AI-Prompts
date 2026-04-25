@@ -1,0 +1,26 @@
+Prompts to Ask ChatGPT to give me code whenever the I want it to paste code based on the zip file, not giving genric file
+
+Prompts 
+I have uploaded/pasted a zip file containing my project code.
+
+Before giving any fixes, please:
+1. Unzip and inspect the full folder structure.
+2. List the important files you found.
+3. Read the files that are relevant to the bug.
+4. Do not give generic code.
+5. Only suggest fixes that match the actual files, classes, functions, imports, and folder paths in my zip.
+6. When giving code changes, tell me exactly:
+   - which file to edit
+   - which function/class to change
+   - what code to replace
+   - what code to paste
+7. Do not invent new architecture unless you clearly say it is optional.
+8. If a required file is missing, tell me instead of guessing.
+
+The bug is:
+[describe your bug here]
+
+Please first confirm the file structure you found, then give the fix.
+Important: Before proposing code, quote or summarize the actual relevant code you found from my zip file, including the file paths. If you cannot find the relevant file, say so.
+
+Do not create a solution from assumptions. I only want changes that fit the uploaded project.
