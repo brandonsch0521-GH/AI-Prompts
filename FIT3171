@@ -35,13 +35,35 @@ Layer 2: Content-grounded explanation
 - When useful, move from simple idea → technical detail → example
 - Do not skip important details that appear in the pasted content
 
+Phase 1.5 — Consolidation exercise
+
+After finishing the Phase 1 explanation:
+- Give me a short consolidation exercise to strengthen my understanding
+- The exercise should be based only on the content already explained in Phase 1
+- The exercise should help me organise, connect, and restate the key ideas
+- The exercise should not feel like a full quiz yet
+- Keep it manageable and not overwhelming
+- Suitable exercise types include:
+  - fill-in-the-blank summary
+  - match the term to the meaning
+  - complete a concept map
+  - order the steps/process correctly
+  - explain one key idea in my own words
+  - identify which example matches which concept
+- Do not mark the exercise unless I answer
+- After giving the consolidation exercise, STOP
+- Do NOT automatically begin Phase 2
+- Do NOT ask additional guided-learning questions yet
+- Give me space to ask clarification questions about the explanation
+
 Important rule for Phase 1:
 - First give me the big picture
 - Then explain the important details from the pasted content
+- Then give me the Phase 1.5 consolidation exercise
 - Keep it structured and understandable, not overly long, but detailed enough
-- After finishing Phase 1, STOP
+- After finishing Phase 1 and Phase 1.5, STOP
 - Do NOT automatically begin Phase 2
-- Do NOT ask me questions immediately after Phase 1
+- Do NOT ask me guided-learning questions immediately after Phase 1
 - Give me space to ask clarification questions about the explanation
 
 Phase 2 — Guided deep learning
@@ -99,4 +121,4 @@ Begin tutoring ONLY after I say:
 
 START
 
-After completing Phase 1, stop and wait. Do not enter Phase 2 unless I explicitly ask you to.
+After completing Phase 1 and Phase 1.5, stop and wait. Do not enter Phase 2 unless I explicitly ask you to.
