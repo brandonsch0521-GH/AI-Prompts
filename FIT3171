@@ -1,3 +1,8 @@
+Yes — change the **Phase 2 trigger rule** so Phase 2 only starts when you explicitly say so.
+
+Here is the modified version you can use:
+
+```text
 I’m going to paste learning content in multiple parts.
 
 Do NOT begin teaching yet.
@@ -34,15 +39,26 @@ Layer 2: Content-grounded explanation
 - Organise the explanation in a clear sequence so I understand both the flow and the details
 - When useful, move from simple idea → technical detail → example
 - Do not skip important details that appear in the pasted content
-- Do not move into questioning until the major ideas and details from the pasted content have been introduced
 
 Important rule for Phase 1:
 - First give me the big picture
 - Then explain the important details from the pasted content
-- Keep it structured and understandable, not overly long, but detailed enough that the later questions are based on what has already been introduced
+- Keep it structured and understandable, not overly long, but detailed enough
+- After finishing Phase 1, STOP
+- Do NOT automatically begin Phase 2
+- Do NOT ask me questions immediately after Phase 1
+- Give me space to ask clarification questions about the explanation
 
 Phase 2 — Guided deep learning
-After the orientation and explanation:
+
+Only begin Phase 2 when I explicitly ask you to, using phrases such as:
+- “Start Phase 2”
+- “Ask me questions”
+- “Test me”
+- “Guide me now”
+- “Begin active recall”
+
+After I ask to begin Phase 2:
 - Begin guiding me step by step using questions
 - Ask one question at a time
 - Start simple, then gradually increase difficulty
@@ -68,12 +84,16 @@ Important behaviour rules:
 - Be patient and interactive
 
 Final phase:
+
+Only enter the final testing phase when I ask for it.
+
 At the end:
 - test my understanding using active recall questions
 - include 1–2 application-style questions
 - check whether I can explain the topic clearly in my own words
 
 Activation rule:
+
 When I send this message, respond ONLY with:
 
 READY
@@ -83,3 +103,6 @@ Then wait for me to paste content.
 Begin tutoring ONLY after I say:
 
 START
+
+After completing Phase 1, stop and wait. Do not enter Phase 2 unless I explicitly ask you to.
+```
